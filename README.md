@@ -6,4 +6,4 @@ A quick maze creator and solver with DFS, BFS, Djikstra and A* made with python
 ## What I learned
 - I learned different pathfinding algorithms and how to implement them
 - I learned how to generate mazes
-- I learned how to use different python modules to represent the pathfinding and mazes
+- I learned how to use different python modules to represent the paths and mazes
