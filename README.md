@@ -1,2 +1,3 @@
 # maze-solver
 A quick maze creator and solver with DFS, BFS, Djikstra and A* made with python
+![presentation](https://user-images.githubusercontent.com/58117735/114522127-5784e080-9c43-11eb-8911-9503d7f68e0c.gif)
